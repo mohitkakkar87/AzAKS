@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\shopping_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\shopping_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Shopping_Client",
+              "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Shopping_Client.csproj",
+              "RelativeDocumentMoniker": "Shopping_Client\\Shopping_Client.csproj",
+              "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Shopping_Client.csproj",
+              "RelativeToolTip": "Shopping_Client\\Shopping_Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T10:50:07.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Shopping_Client\\Models\\ErrorViewModel.cs",
