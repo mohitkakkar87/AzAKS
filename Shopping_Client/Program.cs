@@ -1,7 +1,13 @@
+using System.Diagnostics;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpClient("ShoppingAPIClient",client =>
+{
+    client.BaseAddress = new Uri("https://localhost:7193");// Shopping_API url
+});
 
 var app = builder.Build();
 

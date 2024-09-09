@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\shopping_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\shopping_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107B531-E5E8-4A58-A76A-584B5BA8A7D6}|Shopping_API\\Shopping_API.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D107B531-E5E8-4A58-A76A-584B5BA8A7D6}|Shopping_API\\Shopping_API.csproj|solutionrelative:shopping_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|c:\\users\\mohit kakkar\\source\\repos\\azaks\\shopping_client\\shopping_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E729BB8B-A76E-4952-9624-E45349163011}|Shopping_Client\\Shopping_Client.csproj|solutionrelative:shopping_client\\shopping_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shopping_Client",
+              "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Shopping_Client.csproj",
+              "RelativeDocumentMoniker": "Shopping_Client\\Shopping_Client.csproj",
+              "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Shopping_Client.csproj",
+              "RelativeToolTip": "Shopping_Client\\Shopping_Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T11:01:26.512Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -55,113 +52,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Dockerfile",
-              "RelativeDocumentMoniker": "Shopping_Client\\Dockerfile",
-              "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Dockerfile",
-              "RelativeToolTip": "Shopping_Client\\Dockerfile",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-08T11:44:09.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Shopping_Client\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Shopping_Client\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T11:41:10.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Shopping_Client\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Shopping_Client\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T11:40:04.741Z"
+              "WhenOpened": "2024-09-09T11:17:30.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductContext.cs",
-              "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Data\\ProductContext.cs",
-              "RelativeDocumentMoniker": "Shopping_Client\\Data\\ProductContext.cs",
-              "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Data\\ProductContext.cs",
-              "RelativeToolTip": "Shopping_Client\\Data\\ProductContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Program.cs",
+              "RelativeToolTip": "Shopping_Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T11:37:29.544Z"
+              "WhenOpened": "2024-09-09T11:12:42.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Shopping_Client\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Models\\Product.cs",
-              "RelativeToolTip": "Shopping_Client\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T11:35:40.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Shopping_Client\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Properties\\launchSettings.json",
               "RelativeToolTip": "Shopping_Client\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-08T11:33:16.389Z",
+              "WhenOpened": "2024-09-09T11:00:39.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\appsettings.json",
-              "RelativeDocumentMoniker": "Shopping_Client\\appsettings.json",
-              "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\appsettings.json",
-              "RelativeToolTip": "Shopping_Client\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Shopping_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Shopping_API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-08T11:33:09.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Shopping_Client.csproj",
-              "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Shopping_Client.csproj",
-              "RelativeDocumentMoniker": "Shopping_Client\\Shopping_Client.csproj",
-              "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Shopping_Client.csproj",
-              "RelativeToolTip": "Shopping_Client\\Shopping_Client.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-08T10:50:07.417Z",
+              "WhenOpened": "2024-09-09T10:46:37.269Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Shopping_Client\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\MOHIT KAKKAR\\source\\repos\\AzAKS\\Shopping_Client\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Shopping_Client\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T10:46:32.49Z"
             }
           ]
         }
